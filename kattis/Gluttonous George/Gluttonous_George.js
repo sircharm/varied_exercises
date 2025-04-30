@@ -1,4 +1,5 @@
 //Accepted (100) - 0.04 s
+//node.js
 
 const readline = require('readline');
 
